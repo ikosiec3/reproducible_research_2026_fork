@@ -6,6 +6,8 @@
 !If you're using Git Bash and haven't set the default editor to your code editor, you may want to set `nano` as default (instead of `vim`):
 ```
 git config --global core.editor "nano"
+
+git config --global core.editor "notepad"
 ```
 
 ### Git commands: working with a central repository
@@ -234,4 +236,5 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addres
 
 ## Acknowledgements
 Based on the materials prepared by dr Wojciech Hardy
+
 
